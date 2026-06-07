@@ -26,5 +26,4 @@ This platform dynamically fetches jobs from a live API, generates smart technica
 
 ## Quick Start
 
-See [`RUN_NOTES.md`](RUN_NOTES.md) for step-by-step startup instructions.
-See [`INSTALLATION.md`](INSTALLATION.md) for first-time setup.
+See [`INSTALLATION.md`](INSTALLATION.md) for first-time setup and step-by-step startup instructions.
