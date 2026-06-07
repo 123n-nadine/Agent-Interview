@@ -28,3 +28,7 @@ Thumbs.db
 *.swo
 .vscode/
 .idea/
+
+# Local-only notes
+RUN_NOTES.md
+walkthrough.md
